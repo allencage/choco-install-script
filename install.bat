@@ -21,3 +21,4 @@ choco install -y 7zip.install
 choco install -y skype
 choco install -y treesizefree
 choco install -y cmder
+choco install -y nssm
