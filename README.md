@@ -22,3 +22,4 @@ Projects that are referenced:
 16. treesizefree
 17. yarn
 18. nssm
+19. protoc
