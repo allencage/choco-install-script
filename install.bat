@@ -22,3 +22,4 @@ choco install -y treesizefree
 choco install -y yarn
 choco install -y nssm
 choco install -y protoc
+choco install -y cmder
