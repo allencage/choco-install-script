@@ -12,7 +12,7 @@ choco install -y visualstudio2017enterprise
 choco install -y git.install
 choco install -y netfx-4.7.1-devpack
 choco install -y resharper
-choco install -y utorrent
+choco install -y qbittorrent
 choco install -y powershell
 choco install -y vmware-horizon-client
 choco install -y geforce-experience
